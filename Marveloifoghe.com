@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sandra900<name>
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Marvellous
+- 👀 I’m interested in coding with GitHub
+- 🌱 I’m currently learning coding
+- 💞️ I’m looking to collaborate on coding 
+- 📫 How to reach me +2349013049164
 
 <!---
 Sandra900/Sandra900 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
